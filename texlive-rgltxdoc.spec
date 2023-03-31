@@ -1,6 +1,6 @@
 Name:		texlive-rgltxdoc
 Version:	53858
-Release:	1
+Release:	2
 Summary:	Common code for documentation of the author's packages
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rgltxdoc
