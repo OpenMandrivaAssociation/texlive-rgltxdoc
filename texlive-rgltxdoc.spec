@@ -3,7 +3,7 @@ Version:	53858
 Release:	2
 Summary:	Common code for documentation of the author's packages
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rgltxdoc
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/rgltxdoc
 License:	lppl1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/rgltxdoc.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/rgltxdoc.doc.r%{version}.tar.xz
